@@ -1,6 +1,6 @@
 export default {
 	"botNames": [
-		"Clone Smasher"
+		"HUHA"
 	],
 	"accounts": [
 		""
